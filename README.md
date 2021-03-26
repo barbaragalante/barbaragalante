@@ -26,7 +26,8 @@
 
 #### Minhas redes socias 👇🏼
 
-[![Instagram Badge](https://img.shields.io/badge/-@barbgrr-000000?style=flat-square&labelColor=#000000&logo=instagram&logoColor=white&link=https://twitter.com/dieegosf)](https://www.instagram.com/barbgrr_/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Barbara%20Galante-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/barbara-galante/) 
-[![Gmail Badge](https://img.shields.io/badge/-contato.barbaragalante@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:contato.barbaragalante@gmail.com)
 
+#### Minhas redes socias 👇🏼
+[![Instagram Badge](https://img.shields.io/badge/-@barbgrr-000000?style=flat-square&labelColor=00000&logo=Instagram&logoColor=white&link=https://www.instagram.com/barbgrr_/)](https://www.instagram.com/barbgrr_/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Barbara%20Galante-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barbara-galante/)](https://www.linkedin.com/in/barbara-galante/) 
+[![Gmail Badge](https://img.shields.io/badge/-contato.barbaragalante@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.barbaragalante@gmail.com)](mailto:contato.barbaragalante@gmail.com)
