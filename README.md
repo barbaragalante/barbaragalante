@@ -1,36 +1,28 @@
 # Fala Galera! 🦇
 
-✨Eu sou a Barbara Galante✨
+<p>✨Eu sou a Barbara Galante✨</p>
 
 <div classname="octocat">
  <img align="top" alt="Devto" width="300px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1610937387615.png" />
  </div> 
-
-
-🌍 São Paulo| Brasil.
-⚡️ Sou desenvolvedora Front-end pela @reprogramabr e UX Designer pela @howbootcamps. 
-🔮 Nas horas vagas sou monitora voluntária e ajudo em aulas até processos seletivos, impulsionando novas mulheres na tecnologia 💪👸
+ 
+<p>🌍 São Paulo| Brasil.</p>
+<p>⚡️ Sou desenvolvedora Front-end pela @reprogramabr e UX Designer pela @howbootcamps.</p>
+<p>🔮 Nas horas vagas sou monitora voluntária e ajudo em aulas até processos seletivos, impulsionando novas mulheres na tecnologia 💪👸</p>
 
 #### Competências
-✨Minhas habilidades incluem: 
+<p>✨Minhas habilidades incluem:</p>
 
--Lógica de programação;
--HTML5 & CSS3;
--Jquery;
--Javascript;
--ReactJS;
--Git & Github
--Sass;
--Bootstrap;
--Rest API;
--NodeJS.
-✨Estou estudando no momento:
-
--Typescript;
--TDD;
--Java;
--Arquitetura da informação;
-
+<p>-Lógica de programação;</p>
+<p>-HTML5 & CSS3;</p>
+<p>-Jquery;</p>
+<p>-Javascript;</p>
+<p>-ReactJS;</p>
+<p>-Git & Github</p>
+<p>-Sass;</p>
+<p>-Bootstrap;</p>
+<p>-Rest API;</p>
+<p>-NodeJS.</p>
 
 #### Minhas redes socias 👇🏼
 
