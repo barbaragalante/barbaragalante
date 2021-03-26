@@ -8,7 +8,7 @@
  
 <p>🌍 São Paulo| Brasil.</p>
 <p>⚡️ Sou desenvolvedora Front-end pela @reprogramabr e UX Designer pela @howbootcamps.</p>
-<p>🔮 Nas horas vagas sou monitora voluntária e ajudo em aulas até processos seletivos, impulsionando novas mulheres na tecnologia 💪👸</p>
+<p>💅 Nas horas vagas sou monitora voluntária e ajudo em aulas até processos seletivos, impulsionando novas mulheres na tecnologia 💅</p>
 
 #### Competências
 <p>✨Minhas habilidades incluem:</p>
