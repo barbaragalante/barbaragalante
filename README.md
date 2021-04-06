@@ -18,8 +18,9 @@
 <p>-Jquery;</p>
 <p>-Javascript;</p>
 <p>-Bootstrap;</p>
-<p>-Git & Github</p>
 <p>-Sass;</p>
+<p>-Git & Github;</p>
+<p>-Scrum;</p>
 <p>-ReactJs;</p>
 
 ### Minhas redes socias 👇🏼
