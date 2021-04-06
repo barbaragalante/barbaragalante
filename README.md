@@ -17,12 +17,10 @@
 <p>-HTML5 & CSS3;</p>
 <p>-Jquery;</p>
 <p>-Javascript;</p>
-<p>-ReactJS;</p>
+<p>-Bootstrap;</p>
 <p>-Git & Github</p>
 <p>-Sass;</p>
-<p>-Bootstrap;</p>
-<p>-Rest API;</p>
-<p>-NodeJS.</p>
+<p>-ReactJs;</p>
 
 ### Minhas redes socias 👇🏼
 [![Instagram Badge](https://img.shields.io/badge/-@barbgrr-000000?style=flat-square&labelColor=00000&logo=Instagram&logoColor=white&link=https://www.instagram.com/barbgrr_/)](https://www.instagram.com/barbgrr_/) 
